@@ -155,6 +155,7 @@ a {
 /* Productive Users Section */
 .users {
   background-color: #f1f3ff;
+  border-radius: 1500px;
   text-align: center;
   padding: 60px 20px;
 }
@@ -217,6 +218,34 @@ label {
   font-weight: bold;
 }
 
+
+/*optional*/
+
+.focus-cta {
+  background-color: #f5f7ff;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.focus-cta h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.focus-cta p {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.focus-image img {
+  margin-top: 30px;
+  width: 100%;
+  max-width: 700px;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+
 /* Footer Section */
 .footer {
   background-color: #f1f1f1;
@@ -269,3 +298,7 @@ label {
 .contact h2{
     font-size: 45px;
 }
+
+
+
+
