@@ -8,7 +8,7 @@
 }
 
 
-/* Reset & Base */
+/* Reset */
 * {
   margin: 0;
   padding: 0;
@@ -30,7 +30,7 @@ a {
   text-decoration: none;
 }
 
-/* Buttons with Hover Animation */
+/* Buttons  */
 .btn, .btn-outline {
   padding: 12px 24px;
   font-size: 16px;
@@ -87,7 +87,7 @@ a {
   color: #5b4fff;
 }
 
-/* Banner Section */
+/* Banner */
 .banner {
   text-align: center;
   background: url(Assets/Hero-bg.png);
@@ -111,7 +111,7 @@ a {
   margin: 0 auto;
 }
 
-/* Action Section */
+/* Action  */
 .action {
   padding: 60px 20px;
 }
@@ -152,7 +152,7 @@ a {
   color: #333;
 }
 
-/* Productive Users Section */
+/* Productive Users */
 .users {
   background-color: #f1f3ff;
   border-radius: 1500px;
@@ -182,7 +182,7 @@ a {
   color: #5b4fff;
 }
 
-/* Contact Section */
+/* Contact */
 .contact {
   padding: 60px 20px;
 }
@@ -246,7 +246,7 @@ label {
 }
 
 
-/* Footer Section */
+/* Footer*/
 .footer {
   background-color: #f1f1f1;
   text-align: center;
@@ -269,7 +269,7 @@ label {
   color: #473cd9;
 }
 
-/* Feedback Section */
+/* Feedback*/
 .feedback {
   background-color: #ffffff;
   text-align: center;
