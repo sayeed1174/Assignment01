@@ -199,6 +199,11 @@ a {
 
 .contact .right {
   flex: 2;
+
+}
+
+.contact h2{
+    font-size: 55px;
 }
 
 form {
@@ -269,7 +274,7 @@ label {
   color: #473cd9;
 }
 
-/* Feedback*/
+/* Feedback Section */
 .feedback {
   background-color: #ffffff;
   text-align: center;
@@ -295,9 +300,7 @@ label {
   border-radius: 10px;
 }
 
-.contact h2{
-    font-size: 45px;
-}
+
 
 
 
