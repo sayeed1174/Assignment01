@@ -1,5 +1,4 @@
-
-.open-sans-normal {
+.open-sans-font {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700px;
@@ -224,7 +223,9 @@ label {
   text-align: center;
   padding: 30px 20px;
 }
-
+ .logo{
+    font-size: 40px;
+}
 .footer-links {
   margin-top: 10px;
 }
@@ -259,7 +260,12 @@ label {
 }
 
 .card {
+
   background-color: #f5f5f5;
   padding: 20px;
   border-radius: 10px;
-  wid
+}
+
+.contact h2{
+    font-size: 45px;
+}
